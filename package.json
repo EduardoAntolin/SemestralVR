@@ -9,5 +9,13 @@
   },
   "keywords": [],
   "author": "",
-  "license": "ISC"
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/EduardoAntolin/SemestralVR.git"
+  },
+  "bugs": {
+    "url": "https://github.com/EduardoAntolin/SemestralVR/issues"
+  },
+  "homepage": "https://github.com/EduardoAntolin/SemestralVR#readme"
 }
